@@ -1,0 +1,10 @@
+# SYSTEM
+github clx-truetype goose121/clx-truetype
+# MODULES
+github pamixer Junker/stumpwm-pamixer
+github kbdd Junker/stumpwm-kbdd
+github acpi-backlight Junker/stumpwm-acpi-backlight
+github screenshot-maim Junker/stumpwm-screenshot-maim
+github window-switch Junker/stumpwm-window-switch
+github nuclear Junker/stumpwm-nuclear
+github rofi Junker/stumpwm-rofi
